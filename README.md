@@ -1,5 +1,5 @@
 # GM-FilePicker
- Android GameMaker extension that can call OPEN_DOCUMENT Intent to allow user pick specific file (by default it's .zip archives)
+ Android GameMaker extension that can call ACTION_OPEN_DOCUMENT Intent to allow user pick specific file (by default it's .zip archives)
 I created it because of myself was lacking this kind of functionality on mobile builds. It's simple, but does its work.
 
 # About
